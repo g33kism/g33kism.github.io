@@ -120,5 +120,3 @@ Technical Environment – SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microser
 - **Technology ACE award** in the 4th quarter of 2015 for contribution to the SBL process.
 - **Certified Application Security Champion** in 1st quarter of 2015, henceforth took responsibility to look over secure development practices for 3 applications in CWM (JP Morgan).
 - **All in One award** in 4th quarter of 2014 for being approachable and being able to provide resolutions to the team. **All India Rank 3** in Competency in Software Technology (CST) 2011 E-Level, conducted by C-DAC, India
-
-4
