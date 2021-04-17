@@ -1,6 +1,6 @@
 # Gunraj Mehta
 
-gunrajmehta@gmail.com |+1(437) 345-5922[|](https://www.linkedin.com/in/gunrajmehta/)[https://www.linkedin.com/in/gunrajmehta/](https://www.linkedin.com/in/gunrajmehta/)
+#### gunrajmehta@gmail.com | +1(437) 345-5922 | [https://www.linkedin.com/in/gunrajmehta/](https://www.linkedin.com/in/gunrajmehta/) | https://g33kism.github.io/](https://g33kism.github.io/)
 
 # Summary
 
