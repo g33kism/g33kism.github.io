@@ -25,7 +25,7 @@ gunrajmehta@gmail.com |+1(437) 345-5922[|](https://www.linkedin.com/in/gunrajmeh
 
 # Experience
 
-**SENIOR PROGRAMMER ANALYST**  **| SCOTIABANK, TORONTO**  **FEB 2019 – CURRENT**
+# SENIOR PROGRAMMER ANALYST | SCOTIABANK, TORONTO FEB 2019 – CURRENT
 
 **Core Responsibilities:**
 
@@ -93,15 +93,15 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 
 # Courses and Certifications
 
-- **Enterprise Architecture Development and Governance | University of Toronto SCS** | **Apr 2021** 
-- **Oracle Cloud Infrastructure Foundations 2020 Certified Associate | Oracle** [**http://bit.ly/gm-ocif**](http://bit.ly/gm-ocif) | **May 2020** 
-- **Foundations of Enterprise Architecture | University of Toronto SCS** | **Apr 2020** 
-- **Executive Program in Algorithmic Trading | QuantInsti** [**http://bit.ly/gm-epat**](http://bit.ly/gm-epat) | **Sep 2017** 
+|**Enterprise Architecture Development and Governance | University of Toronto SCS** | **Apr 2021** |
+|**Oracle Cloud Infrastructure Foundations 2020 Certified Associate | Oracle** [**http://bit.ly/gm-ocif**](http://bit.ly/gm-ocif) | **May 2020** |
+|**Foundations of Enterprise Architecture | University of Toronto SCS** | **Apr 2020** |
+|**Executive Program in Algorithmic Trading | QuantInsti** [**http://bit.ly/gm-epat**](http://bit.ly/gm-epat) | **Sep 2017** |
 
 # Education
 
-- **MASTER OF COMPUTER APPLICATION|VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE (VJTI)** | **JULY 2014** 
-- **BSC COMPUTER SCIENCE|MUMBAI UNIVERSITY** | **JULY 2011** 
+|**MASTER OF COMPUTER APPLICATION|VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE (VJTI)** | **JULY 2014** |
+|**BSC COMPUTER SCIENCE|MUMBAI UNIVERSITY** | **JULY 2011** |
 
 # Awards and Recognitions
 
