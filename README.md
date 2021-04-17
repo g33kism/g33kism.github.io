@@ -1,6 +1,5 @@
 # Gunraj Mehta
 #
-
 gunrajmehta@gmail.com |+1(437) 345-5922[|](https://www.linkedin.com/in/gunrajmehta/)[https://www.linkedin.com/in/gunrajmehta/](https://www.linkedin.com/in/gunrajmehta/)
 
 # Summary
@@ -94,15 +93,15 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 
 # Courses and Certifications
 
-| **Enterprise Architecture Development and Governance | University of Toronto SCS** | **Apr 2021** |
-| **Oracle Cloud Infrastructure Foundations 2020 Certified Associate | Oracle [**http://bit.ly/gm-ocif**](http://bit.ly/gm-ocif) | **May 2020** |
-| **Foundations of Enterprise Architecture | University of Toronto SCS** | **Apr 2020** |
-| **Executive Program in Algorithmic Trading | QuantInsti [**http://bit.ly/gm-epat**](http://bit.ly/gm-epat) | **Sep 2017** |
+- **Enterprise Architecture Development and Governance | University of Toronto SCS** | **Apr 2021** 
+- **Oracle Cloud Infrastructure Foundations 2020 Certified Associate | Oracle** [**http://bit.ly/gm-ocif**](http://bit.ly/gm-ocif) | **May 2020** 
+- **Foundations of Enterprise Architecture | University of Toronto SCS** | **Apr 2020** 
+- **Executive Program in Algorithmic Trading | QuantInsti** [**http://bit.ly/gm-epat**](http://bit.ly/gm-epat) | **Sep 2017** 
 
 # Education
 
-| **MASTER OF COMPUTER APPLICATION|VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE (VJTI)** | **JULY 2014** |
-| **BSC COMPUTER SCIENCE|MUMBAI UNIVERSITY** | **JULY 2011** |
+- **MASTER OF COMPUTER APPLICATION|VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE (VJTI)** | **JULY 2014** 
+- **BSC COMPUTER SCIENCE|MUMBAI UNIVERSITY** | **JULY 2011** 
 
 # Awards and Recognitions
 
@@ -113,5 +112,3 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 - **Technology ACE award** in the 4th quarter of 2015 for contribution to the SBL process.
 - **Certified Application Security Champion** in 1st quarter of 2015, henceforth took responsibility to look over secure development practices for 3 applications in CWM (JP Morgan).
 - **All in One award** in 4th quarter of 2014 for being approachable and being able to provide resolutions to the team. **All India Rank 3** in Competency in Software Technology (CST) 2011 E-Level, conducted by C-DAC, India
-
-5
