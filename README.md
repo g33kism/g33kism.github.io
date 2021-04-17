@@ -1,5 +1,5 @@
 # Gunraj Mehta
-#
+
 gunrajmehta@gmail.com |+1(437) 345-5922[|](https://www.linkedin.com/in/gunrajmehta/)[https://www.linkedin.com/in/gunrajmehta/](https://www.linkedin.com/in/gunrajmehta/)
 
 # Summary
@@ -100,8 +100,8 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 
 # Education
 
-|**MASTER OF COMPUTER APPLICATION**|**VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE (VJTI)** | **JUL 2014** |
-|**BSC COMPUTER SCIENCE|MUMBAI UNIVERSITY | **JUL 2011** |
+|**Master of Computer Applications**|**Veermata Jijabai Technological Institute (VJTI)** | **JUL 2014** |
+|**Bachelor of Science - Computer Science ** | **Mumbai University** | **JUL 2011** |
 
 # Awards and Recognitions
 
