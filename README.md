@@ -101,7 +101,7 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 # Education
 
 |**Master of Computer Applications**|**Veermata Jijabai Technological Institute (VJTI)** | **JUL 2014** |
-|**Bachelor of Science - Computer Science ** | **Mumbai University** | **JUL 2011** |
+|**Bachelor of Science - Computer Science** | **Mumbai University** | **JUL 2011** |
 
 # Awards and Recognitions
 
