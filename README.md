@@ -4,7 +4,7 @@
 
 # Summary
 
-- **6.7 years of experience** as Application Developer in **full-stack and Java/J2EE** technologies and **ETL** in various banking institutions **.**
+- **7 years of experience** as Application Developer in **full-stack and Java/J2EE** technologies and **ETL** in various banking institutions **.**
 - Have worked on projects related to **trade**** reconciliations **,** workflow automation **,** customer KYC and risk management**.
 - Expertise in **Spring** -based application, **Microservices/BDD** , **DevOps** and **Cloud Foundry**.
 - Highly involved in the development and leading major Regulatory projects/reforms with strict guidelines to be adhered to and timelines to be achieved
@@ -25,7 +25,7 @@
 
 # Experience
 
-## SENIOR PROGRAMMER ANALYST | SCOTIABANK, TORONTO FEB 2019 – CURRENT
+## SENIOR PROGRAMMER ANALYST | SCOTIABANK, TORONTO FEB 2019 – JUL 2021
 
 **Core Responsibilities:**
 
@@ -105,7 +105,7 @@ Technical Environment - SpringBoot, Angular, ExpressJS, NodeJS, FAAS, Microservi
 
 # Awards and Recognitions
 
-- **41 Applauses** at Scotiabank
+- **47 Applauses** at Scotiabank
 - **Spot Award** in 3rd quarter of 2018 for completion of end-to-end automated CI/CD pipeline
 - **Technology ACE award (Team)** in 1st and 2nd quarter of 2018 for successful phased deliveries of KYC Viewer and delivery on the internal cloud platform
 - **Shining Star award** in 3rd and 4th quarter of 2017 for leading tech modernization efforts viz. Java upgrades from 6 to 8 and making apps cloud friendly.
